@@ -19,3 +19,4 @@
 
 ![ScreenShot](https://github.com/ez3nx/HSExPSB_hackaton/blob/main/HSE_PSB_Hack_GlowByte_ml.jpg)
 
+![ScreenShot](https://github.com/ez3nx/HSExPSB_hackaton/blob/main/HSE_PSB_Hack_GlowByte_MLOps.jpg)
